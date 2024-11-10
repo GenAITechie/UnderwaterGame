@@ -15,5 +15,3 @@ Embark on an epic underwater adventure to save the ocean world!
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/your_username/UnderwaterGame.git
